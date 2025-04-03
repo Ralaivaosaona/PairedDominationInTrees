@@ -3,4 +3,4 @@ This repository contains codes for computing the paired domination number and pa
   1- Numerically solving a system of equation
   2- Generating a histogram for paired dominations of samples of trees
   3- Paired dominating a random tree with pictures
-The codes are liked the manuscript titled "Paired domination in trees: A linear algorithm and asymptotic normality" by  M. A. Henning and D. Ralaivaosaona.
+The codes are linked to the manuscript titled "Paired domination in trees: A linear algorithm and asymptotic normality" by  M. A. Henning and D. Ralaivaosaona.
